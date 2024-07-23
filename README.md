@@ -1,6 +1,6 @@
 # AI-Enhanced Reconstruction of the 12-Lead Electrocardiogram via 3-Leads with Accurate Clinical Assessment
 
-This repository contains the full Python code for designing and training the Deep Learning models presented in the paper "AI-Enhanced Reconstruction of the 12-Lead Electrocardiogram via 3-Leads with Accurate Clinical Assessment"
+This repository contains the full Python code for designing and training the Deep Learning models presented in the paper "AI-Enhanced Reconstruction of the 12-Lead Electrocardiogram via 3-Leads with Accurate Clinical Assessment" (https://doi.org/10.1038/s41746-024-01193-7).
 
 ## Author
 
